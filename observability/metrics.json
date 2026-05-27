@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-05-27T18:38:45.417Z",
+    "method": "POST",
+    "route": "/login",
+    "duration": 3,
+    "statusCode": 200
+  },
+  {
+    "timestamp": "2026-05-27T18:38:53.437Z",
+    "method": "POST",
+    "route": "/login",
+    "duration": 3,
+    "statusCode": 401
+  },
+  {
+    "timestamp": "2026-05-27T18:39:06.488Z",
+    "method": "GET",
+    "route": "/products",
+    "duration": 2008,
+    "statusCode": 200
+  },
+  {
+    "timestamp": "2026-05-27T18:39:57.534Z",
+    "method": "POST",
+    "route": "/products",
+    "duration": 3,
+    "statusCode": 201
+  },
+  {
+    "timestamp": "2026-05-27T18:40:18.162Z",
+    "method": "GET",
+    "route": "/products",
+    "duration": 2009,
+    "statusCode": 200
+  },
+  {
+    "timestamp": "2026-05-27T18:41:23.838Z",
+    "method": "GET",
+    "route": "/product",
+    "duration": 1,
+    "statusCode": 404
+  }
+]

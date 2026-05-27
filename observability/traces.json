@@ -1,0 +1,50 @@
+[
+  {
+    "traceId": 1779907125414,
+    "method": "POST",
+    "route": "/login",
+    "startTime": "2026-05-27T18:38:45.414Z",
+    "endTime": "2026-05-27T18:38:45.417Z",
+    "statusCode": 200
+  },
+  {
+    "traceId": 1779907133434,
+    "method": "POST",
+    "route": "/login",
+    "startTime": "2026-05-27T18:38:53.434Z",
+    "endTime": "2026-05-27T18:38:53.437Z",
+    "statusCode": 401
+  },
+  {
+    "traceId": 1779907144480,
+    "method": "GET",
+    "route": "/products",
+    "startTime": "2026-05-27T18:39:04.480Z",
+    "endTime": "2026-05-27T18:39:06.488Z",
+    "statusCode": 200
+  },
+  {
+    "traceId": 1779907197531,
+    "method": "POST",
+    "route": "/products",
+    "startTime": "2026-05-27T18:39:57.531Z",
+    "endTime": "2026-05-27T18:39:57.534Z",
+    "statusCode": 201
+  },
+  {
+    "traceId": 1779907216153,
+    "method": "GET",
+    "route": "/products",
+    "startTime": "2026-05-27T18:40:16.153Z",
+    "endTime": "2026-05-27T18:40:18.163Z",
+    "statusCode": 200
+  },
+  {
+    "traceId": 1779907283837,
+    "method": "GET",
+    "route": "/product",
+    "startTime": "2026-05-27T18:41:23.837Z",
+    "endTime": "2026-05-27T18:41:23.838Z",
+    "statusCode": 404
+  }
+]
